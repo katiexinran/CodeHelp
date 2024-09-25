@@ -7,6 +7,8 @@ openai.api_type = "azure"
 openai.api_base = "https://inferenceendpointeastus.openai.azure.com/"
 openai.api_version = "2022-06-01-preview"
 
+# API Key set here
+
 # Prints the help commands
 def help():
     print("Welcome to CodeHelp! \n Available Commands: Quit (q), Debug (d), Explain (e), Optimize (o), History (h), Help (?)")
